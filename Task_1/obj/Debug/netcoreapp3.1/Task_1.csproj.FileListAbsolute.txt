@@ -1,0 +1,13 @@
+/Users/rossmac/Library/CloudStorage/OneDrive-ADvTECHLtd/Varsity/PROG/POE/Task_1/Task_1/Task_1/obj/Debug/netcoreapp3.1/Task_1.csproj.AssemblyReference.cache
+/Users/rossmac/Library/CloudStorage/OneDrive-ADvTECHLtd/Varsity/PROG/POE/Task_1/Task_1/Task_1/obj/Debug/netcoreapp3.1/Task_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rossmac/Library/CloudStorage/OneDrive-ADvTECHLtd/Varsity/PROG/POE/Task_1/Task_1/Task_1/obj/Debug/netcoreapp3.1/Task_1.AssemblyInfoInputs.cache
+/Users/rossmac/Library/CloudStorage/OneDrive-ADvTECHLtd/Varsity/PROG/POE/Task_1/Task_1/Task_1/obj/Debug/netcoreapp3.1/Task_1.AssemblyInfo.cs
+/Users/rossmac/Library/CloudStorage/OneDrive-ADvTECHLtd/Varsity/PROG/POE/Task_1/Task_1/Task_1/obj/Debug/netcoreapp3.1/Task_1.csproj.CoreCompileInputs.cache
+/Users/rossmac/Library/CloudStorage/OneDrive-ADvTECHLtd/Varsity/PROG/POE/Task_1/Task_1/Task_1/bin/Debug/netcoreapp3.1/Task_1.deps.json
+/Users/rossmac/Library/CloudStorage/OneDrive-ADvTECHLtd/Varsity/PROG/POE/Task_1/Task_1/Task_1/bin/Debug/netcoreapp3.1/Task_1.runtimeconfig.json
+/Users/rossmac/Library/CloudStorage/OneDrive-ADvTECHLtd/Varsity/PROG/POE/Task_1/Task_1/Task_1/bin/Debug/netcoreapp3.1/Task_1.runtimeconfig.dev.json
+/Users/rossmac/Library/CloudStorage/OneDrive-ADvTECHLtd/Varsity/PROG/POE/Task_1/Task_1/Task_1/bin/Debug/netcoreapp3.1/Task_1.dll
+/Users/rossmac/Library/CloudStorage/OneDrive-ADvTECHLtd/Varsity/PROG/POE/Task_1/Task_1/Task_1/bin/Debug/netcoreapp3.1/Task_1.pdb
+/Users/rossmac/Library/CloudStorage/OneDrive-ADvTECHLtd/Varsity/PROG/POE/Task_1/Task_1/Task_1/obj/Debug/netcoreapp3.1/Task_1.dll
+/Users/rossmac/Library/CloudStorage/OneDrive-ADvTECHLtd/Varsity/PROG/POE/Task_1/Task_1/Task_1/obj/Debug/netcoreapp3.1/Task_1.pdb
+/Users/rossmac/Library/CloudStorage/OneDrive-ADvTECHLtd/Varsity/PROG/POE/Task_1/Task_1/Task_1/obj/Debug/netcoreapp3.1/Task_1.genruntimeconfig.cache
